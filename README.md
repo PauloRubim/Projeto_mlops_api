@@ -1,7 +1,7 @@
 # Projeto de Machine Learning Model Deployment
 
 # Sobre o projeto
-Este projeto foi desenvolvido no curso MLOps: Machine Learning e APIs da Alura. Este projeto consiste em fazer um deplyment de um modelo de machine learning como API. Desse modo conseguimos disponibilizar o modelo em produção. 
+Este projeto foi desenvolvido no curso MLOps: Machine Learning e APIs da Alura. Este projeto consiste em fazer um deployment de um modelo de machine learning como API. Desse modo conseguimos disponibilizar o modelo em produção. 
 
 
 # Tecnologias utilizadas
