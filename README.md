@@ -1,15 +1,15 @@
 # Projeto de Machine Learning Model Deployment
 
-# Sobre o projeto
+## Sobre o projeto
 Este projeto foi desenvolvido no curso MLOps: Machine Learning e APIs da Alura. Este projeto consiste em fazer um deployment de um modelo de machine learning como API utilizando o Flask. Desse modo conseguimos disponibilizar o modelo em produção. 
 
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - Flask (Para desenvolvimento da aplicação web)
 - Jupyterlab (Ambiente de desenvolvimento)
 - Python (libs: Flask, flask_basicauth, TextBlob, LinearRegression, pickle)
 
-# Entendendo os arquivos  
+## Entendendo os arquivos  
 - requests.ipynb (notebook para testar a rota cotação)
 - House_Prices.ipynb (notebook para criação do modelo de regressão)
 - analise_de_sentimento.ipynb (notebook para criação do modelo de PLN)
@@ -19,7 +19,7 @@ Este projeto foi desenvolvido no curso MLOps: Machine Learning e APIs da Alura. 
 - mlops_api (Máquina virtual)
 
 
-# Como executar o projeto
+## Como executar o projeto
 Foi criado um ambiente virtual no python com todas as dependências utilizadas. Você pode pode inicializar o ambiente virtual na sua máquina que já tem todas as dependências instaladas.
 
 
@@ -33,10 +33,10 @@ Testando o projeto:
 - Copiaremos o endereço web mostrado no prompt e colaremos no buscador do navegador. Acrescentando ao endereço web /sentimento/Python is a great language, conseguimos testar nossa rota em que utilizamos um modelo de processamento de linguagem natural para análise de sentimentos em texto. Quanto mais próximo de 1 mais positivo e quanto mais próximo de -1 mais negativo é aquele texto.  
 - Para testarmos o modelo de regressão utilizaremos o notebook: requests.ipynb. 
 
-OBS: É interessante não ter nenhum caractere especial ou espaços entre nomes no caminho em que você for inicializar o ambiente virtual, pode ser que dificulte a inicialiação. 
+OBS: É interessante não ter nenhum caractere especial ou espaços entre nomes no caminho em que você for inicializar o ambiente virtual, pode ser que dificulte a inicialização. 
 
 
-# Autor
+## Autor
 
 Paulo César Souza Rubim Filho
 
